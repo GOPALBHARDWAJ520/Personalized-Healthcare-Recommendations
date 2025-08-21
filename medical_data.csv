@@ -1,0 +1,164 @@
+age,gender,hemoglobin,wbc,rbc,platelets,glucose,cholesterol,smoking_status,recommendation
+45,Male,14.2,7.5,4.8,250000,95,180,Non-smoker,No action needed
+38,Female,12.1,6.8,4.2,280000,88,195,Non-smoker,No action needed
+52,Male,11.8,8.2,5.1,220000,105,220,Former,Check-up recommended
+29,Female,10.5,5.9,4.0,180000,92,170,Non-smoker,Lifestyle changes
+67,Male,13.8,9.1,4.9,190000,110,240,Current,Clinical evaluation
+34,Female,11.2,7.3,4.1,260000,85,165,Non-smoker,No action needed
+41,Male,9.8,6.4,4.6,210000,98,185,Non-smoker,Lifestyle changes
+55,Female,12.7,8.8,4.3,275000,102,200,Former,Check-up recommended
+48,Male,14.5,7.9,5.0,235000,94,175,Non-smoker,No action needed
+36,Female,10.9,6.1,4.2,245000,89,190,Non-smoker,Lifestyle changes
+62,Male,12.3,8.5,4.7,200000,108,215,Current,Clinical evaluation
+27,Female,13.1,5.7,4.4,290000,87,160,Non-smoker,No action needed
+59,Male,11.6,9.2,4.5,180000,115,225,Former,Clinical evaluation
+33,Female,12.9,7.1,4.0,265000,91,185,Non-smoker,No action needed
+44,Male,10.2,8.0,4.8,195000,100,205,Non-smoker,Lifestyle changes
+50,Female,11.4,6.5,4.3,255000,96,195,Former,Check-up recommended
+39,Male,13.5,7.8,4.9,240000,93,170,Non-smoker,No action needed
+46,Female,9.5,8.3,3.9,175000,112,210,Current,Clinical evaluation
+31,Male,12.8,6.2,4.7,270000,90,180,Non-smoker,No action needed
+54,Female,11.7,8.7,4.1,230000,104,200,Non-smoker,Check-up recommended
+42,Male,14.1,7.4,5.2,245000,95,175,Non-smoker,No action needed
+37,Female,10.8,6.9,4.2,285000,88,190,Non-smoker,Lifestyle changes
+61,Male,12.0,9.0,4.6,205000,107,220,Former,Clinical evaluation
+35,Female,13.3,6.0,4.5,275000,92,165,Non-smoker,No action needed
+49,Male,11.3,8.1,4.8,220000,101,195,Non-smoker,Check-up recommended
+40,Female,12.6,7.2,4.3,260000,89,180,Non-smoker,No action needed
+58,Male,10.7,8.9,4.4,190000,109,230,Current,Clinical evaluation
+32,Female,13.7,5.8,4.6,280000,86,170,Non-smoker,No action needed
+47,Male,11.9,7.7,4.9,235000,97,185,Non-smoker,Check-up recommended
+43,Female,10.4,8.4,4.0,250000,103,205,Former,Lifestyle changes
+56,Male,13.4,8.6,5.0,215000,105,190,Non-smoker,Check-up recommended
+30,Female,12.2,6.3,4.1,295000,87,175,Non-smoker,No action needed
+51,Male,10.6,9.3,4.5,200000,111,225,Current,Clinical evaluation
+38,Female,13.0,7.0,4.4,265000,90,180,Non-smoker,No action needed
+45,Male,11.5,7.5,4.7,225000,98,185,Non-smoker,Check-up recommended
+41,Female,12.5,6.8,4.2,270000,91,175,Non-smoker,No action needed
+53,Male,10.1,8.8,4.6,185000,113,235,Former,Clinical evaluation
+34,Female,13.6,6.1,4.5,285000,88,170,Non-smoker,No action needed
+48,Male,12.4,8.2,4.8,240000,99,190,Non-smoker,Check-up recommended
+36,Female,11.0,7.3,4.0,255000,92,195,Non-smoker,Lifestyle changes
+57,Male,13.2,8.5,4.9,210000,106,185,Current,Clinical evaluation
+39,Female,10.3,6.7,4.3,275000,93,200,Non-smoker,Lifestyle changes
+52,Male,12.7,7.9,5.1,230000,100,180,Non-smoker,Check-up recommended
+44,Female,11.8,8.0,4.1,245000,94,190,Non-smoker,Check-up recommended
+60,Male,10.9,9.1,4.5,195000,108,220,Former,Clinical evaluation
+33,Female,13.9,5.9,4.7,290000,87,165,Non-smoker,No action needed
+46,Male,11.6,7.6,4.8,220000,102,195,Non-smoker,Check-up recommended
+40,Female,12.3,6.9,4.2,260000,89,175,Non-smoker,No action needed
+55,Male,10.4,8.7,4.6,200000,110,230,Current,Clinical evaluation
+31,Female,13.1,6.2,4.4,280000,88,170,Non-smoker,No action needed
+47,Male,12.0,8.3,4.7,235000,97,185,Non-smoker,Check-up recommended
+42,Female,11.1,7.4,4.0,250000,93,190,Non-smoker,Lifestyle changes
+59,Male,13.5,8.8,5.0,205000,105,185,Former,Check-up recommended
+37,Female,10.7,6.5,4.3,275000,91,195,Non-smoker,Lifestyle changes
+50,Male,12.1,7.8,4.9,225000,98,180,Non-smoker,Check-up recommended
+35,Female,13.8,6.0,4.6,285000,87,170,Non-smoker,No action needed
+54,Male,11.2,8.9,4.5,210000,109,220,Current,Clinical evaluation
+38,Female,12.9,7.1,4.2,265000,90,175,Non-smoker,No action needed
+49,Male,10.8,8.0,4.8,220000,100,195,Non-smoker,Check-up recommended
+41,Female,11.9,6.8,4.1,255000,92,185,Non-smoker,Lifestyle changes
+56,Male,13.3,8.6,4.9,215000,106,190,Former,Clinical evaluation
+32,Female,10.5,6.4,4.4,290000,89,200,Non-smoker,Lifestyle changes
+48,Male,12.2,7.7,5.0,240000,99,185,Non-smoker,Check-up recommended
+43,Female,11.7,7.5,4.0,260000,91,180,Non-smoker,Check-up recommended
+57,Male,10.6,9.0,4.6,200000,107,225,Current,Clinical evaluation
+34,Female,13.4,6.1,4.5,275000,88,170,Non-smoker,No action needed
+47,Male,11.8,8.2,4.8,235000,98,190,Non-smoker,Check-up recommended
+39,Female,12.6,6.9,4.3,270000,90,175,Non-smoker,No action needed
+52,Male,10.9,8.8,4.7,220000,101,195,Non-smoker,Check-up recommended
+40,Female,11.3,7.2,4.1,250000,93,185,Non-smoker,Lifestyle changes
+58,Male,13.1,8.5,5.0,205000,105,185,Former,Clinical evaluation
+33,Female,10.4,6.3,4.4,285000,89,200,Non-smoker,Lifestyle changes
+46,Male,12.5,7.8,4.9,230000,97,180,Non-smoker,Check-up recommended
+37,Female,11.6,6.7,4.2,265000,91,190,Non-smoker,Lifestyle changes
+51,Male,10.7,8.9,4.6,215000,102,195,Current,Clinical evaluation
+35,Female,13.7,6.0,4.5,280000,88,170,Non-smoker,No action needed
+48,Male,11.9,7.9,4.8,225000,98,185,Non-smoker,Check-up recommended
+42,Female,12.0,7.3,4.1,255000,92,180,Non-smoker,No action needed
+55,Male,10.5,8.8,4.7,210000,103,220,Former,Clinical evaluation
+31,Female,13.5,6.2,4.6,290000,87,165,Non-smoker,No action needed
+49,Male,11.4,8.1,4.9,235000,99,190,Non-smoker,Check-up recommended
+38,Female,12.8,6.8,4.2,260000,90,175,Non-smoker,No action needed
+53,Male,10.8,8.7,4.5,215000,101,195,Current,Clinical evaluation
+36,Female,11.2,7.1,4.3,275000,91,185,Non-smoker,Lifestyle changes
+50,Male,12.3,7.6,4.8,220000,100,180,Non-smoker,Check-up recommended
+39,Female,10.9,6.9,4.1,265000,92,190,Non-smoker,Lifestyle changes
+54,Male,13.2,8.4,4.9,205000,104,185,Former,Clinical evaluation
+32,Female,11.7,6.4,4.5,285000,88,175,Non-smoker,Check-up recommended
+47,Male,10.6,8.0,4.7,230000,102,195,Non-smoker,Check-up recommended
+41,Female,12.7,7.2,4.2,255000,91,175,Non-smoker,No action needed
+56,Male,11.1,8.9,4.6,210000,103,220,Current,Clinical evaluation
+34,Female,13.6,6.1,4.4,280000,89,170,Non-smoker,No action needed
+48,Male,12.0,7.8,4.8,235000,98,185,Non-smoker,Check-up recommended
+40,Female,11.5,6.8,4.1,260000,92,180,Non-smoker,Lifestyle changes
+57,Male,10.7,8.8,4.7,215000,101,190,Former,Clinical evaluation
+33,Female,13.4,6.2,4.5,285000,88,165,Non-smoker,No action needed
+46,Male,11.8,7.9,4.9,220000,99,185,Non-smoker,Check-up recommended
+37,Female,12.1,6.7,4.2,270000,91,175,Non-smoker,No action needed
+52,Male,10.9,8.6,4.6,210000,102,195,Current,Clinical evaluation
+35,Female,11.3,7.0,4.3,275000,90,185,Non-smoker,Lifestyle changes
+49,Male,12.4,7.7,4.8,225000,98,180,Non-smoker,Check-up recommended
+38,Female,10.8,6.9,4.1,265000,93,190,Non-smoker,Lifestyle changes
+55,Male,13.0,8.5,4.9,205000,104,185,Former,Clinical evaluation
+31,Female,11.6,6.3,4.5,290000,87,175,Non-smoker,Check-up recommended
+47,Male,10.5,8.1,4.7,230000,100,195,Non-smoker,Check-up recommended
+42,Female,12.9,7.1,4.2,255000,91,175,Non-smoker,No action needed
+58,Male,11.2,8.8,4.6,210000,103,220,Current,Clinical evaluation
+34,Female,13.7,6.0,4.4,280000,88,170,Non-smoker,No action needed
+48,Male,12.2,7.8,4.8,235000,98,185,Non-smoker,Check-up recommended
+39,Female,11.0,6.8,4.1,260000,92,190,Non-smoker,Lifestyle changes
+56,Male,10.6,8.9,4.7,215000,101,190,Former,Clinical evaluation
+32,Female,13.5,6.2,4.5,285000,89,165,Non-smoker,No action needed
+46,Male,11.7,7.9,4.9,220000,99,185,Non-smoker,Check-up recommended
+40,Female,12.3,6.9,4.2,270000,91,175,Non-smoker,No action needed
+53,Male,10.8,8.7,4.6,210000,102,195,Current,Clinical evaluation
+36,Female,11.4,7.0,4.3,275000,90,185,Non-smoker,Lifestyle changes
+50,Male,12.1,7.6,4.8,225000,98,180,Non-smoker,Check-up recommended
+38,Female,10.9,6.9,4.1,265000,92,190,Non-smoker,Lifestyle changes
+55,Male,13.3,8.5,4.9,205000,104,185,Former,Clinical evaluation
+31,Female,11.5,6.3,4.5,290000,87,175,Non-smoker,Check-up recommended
+47,Male,10.7,8.0,4.7,230000,100,195,Non-smoker,Check-up recommended
+41,Female,12.8,7.2,4.2,255000,91,175,Non-smoker,No action needed
+58,Male,11.1,8.9,4.6,210000,103,220,Current,Clinical evaluation
+33,Female,13.6,6.1,4.4,285000,88,170,Non-smoker,No action needed
+48,Male,12.0,7.8,4.8,235000,98,185,Non-smoker,Check-up recommended
+39,Female,11.3,6.8,4.1,260000,92,180,Non-smoker,Lifestyle changes
+57,Male,10.6,8.8,4.7,215000,101,190,Former,Clinical evaluation
+32,Female,13.4,6.2,4.5,290000,89,165,Non-smoker,No action needed
+46,Male,11.8,7.9,4.9,220000,99,185,Non-smoker,Check-up recommended
+40,Female,12.1,6.9,4.2,270000,91,175,Non-smoker,No action needed
+52,Male,10.9,8.7,4.6,210000,102,195,Current,Clinical evaluation
+35,Female,11.2,7.0,4.3,275000,90,185,Non-smoker,Lifestyle changes
+49,Male,12.4,7.7,4.8,225000,98,180,Non-smoker,Check-up recommended
+38,Female,10.8,6.9,4.1,265000,92,190,Non-smoker,Lifestyle changes
+55,Male,13.1,8.5,4.9,205000,104,185,Former,Clinical evaluation
+31,Female,11.6,6.3,4.5,290000,87,175,Non-smoker,Check-up recommended
+47,Male,10.5,8.1,4.7,230000,100,195,Non-smoker,Check-up recommended
+42,Female,12.9,7.1,4.2,255000,91,175,Non-smoker,No action needed
+58,Male,11.2,8.9,4.6,210000,103,220,Current,Clinical evaluation
+34,Female,13.7,6.1,4.4,285000,88,170,Non-smoker,No action needed
+48,Male,12.0,7.8,4.8,235000,98,185,Non-smoker,Check-up recommended
+39,Female,11.0,6.8,4.1,260000,92,180,Non-smoker,Lifestyle changes
+57,Male,10.6,8.8,4.7,215000,101,190,Former,Clinical evaluation
+32,Female,13.5,6.2,4.5,290000,89,165,Non-smoker,No action needed
+46,Male,11.8,7.9,4.9,220000,99,185,Non-smoker,Check-up recommended
+40,Female,12.1,6.9,4.2,270000,91,175,Non-smoker,No action needed
+52,Male,10.9,8.7,4.6,210000,102,195,Current,Clinical evaluation
+35,Female,11.4,7.0,4.3,275000,90,185,Non-smoker,Lifestyle changes
+49,Male,12.4,7.7,4.8,225000,98,180,Non-smoker,Check-up recommended
+38,Female,10.8,6.9,4.1,265000,92,190,Non-smoker,Lifestyle changes
+55,Male,13.1,8.5,4.9,205000,104,185,Former,Clinical evaluation
+31,Female,11.6,6.3,4.5,290000,87,175,Non-smoker,Check-up recommended
+47,Male,10.5,8.1,4.7,230000,100,195,Non-smoker,Check-up recommended
+42,Female,12.9,7.1,4.2,255000,91,175,Non-smoker,No action needed
+58,Male,11.2,8.9,4.6,210000,103,220,Current,Clinical evaluation
+34,Female,13.7,6.1,4.4,285000,88,170,Non-smoker,No action needed
+48,Male,12.0,7.8,4.8,235000,98,185,Non-smoker,Check-up recommended
+39,Female,11.0,6.8,4.1,260000,92,180,Non-smoker,Lifestyle changes
+57,Male,10.6,8.8,4.7,215000,101,190,Former,Clinical evaluation
+32,Female,13.5,6.2,4.5,290000,89,165,Non-smoker,No action needed
+46,Male,11.8,7.9,4.9,220000,99,185,Non-smoker,Check-up recommended
+40,Female,12.1,6.9,4.2,270000,91,175,Non-smoker,No action needed
+52,Male,10.9,8.7,4.6,210000,102,195,Current,Clinical Evaluation
